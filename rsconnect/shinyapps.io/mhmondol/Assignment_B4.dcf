@@ -1,0 +1,14 @@
+name: Assignment_B4
+title: Assignment_B4
+username:
+account: mhmondol
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7800631
+bundleId: 6584469
+url: https://mhmondol.shinyapps.io/Assignment_B4/
+when: 1670030625.80541
+lastSyncTime: 1670030625.80545
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: server - Copy.R|ui - Copy.R
